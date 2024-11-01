@@ -1,0 +1,60 @@
+{
+  	"version": "4.19.2016-SM,SH,RD",
+	"ui":
+	{
+		"balance":"BALANCE",
+		"wager":"TICKET COST",
+		"demo":"DEMO ",
+		"wins":"WINS",
+		"demoWins":"DEMO WINS",
+		"buy":"BUY",
+		"try":"TRY",
+		"drawOne":"DRAW ONE",
+		"drawAll":"DRAW ALL",
+		"exit":"EXIT",
+		"playForMoney":"PLAY WITH\nMONEY",
+		"buttons":
+		{
+			"fire": "LAUNCH",
+			"autoPlay": "AUTO PLAY",
+		  	"stop": "STOP",
+			"ok":"OK"
+		}
+	},
+	"game":
+	{
+    "scoreboardHeader": "PRIZE WIN ZONE",
+		"statusBar":
+		{
+			"rolling": "ROLLING, ROLLING, ROLLING!",
+			"segmentHit": "SEGMENT {0} HIT!",
+			"winner": "{0} WINNER!!!",
+			"stat1": "LAUNCH THE BALLS!",
+			"stat2": "LAND 3 IN THE CENTER",
+			"stat3": "VIA THE SAME SEGMENT TO WIN!",
+			"goodLuck":"GOOD LUCK!",
+			"ready":"READY",
+			"drawComplete":"DRAW COMPLETE",
+			"ticketCost":"SELECT YOUR TICKET COST"
+		},
+	  	"ballCountSingular": "1 BALL LEFT",
+		"ballCountPlural": "{0} BALLS LEFT",
+		"ballCountSingularPort": "1 BALL\nLEFT",
+		"ballCountPluralPort": "{0} BALLS\nLEFT",
+	  	"result":
+		{
+			"win": "Congratulations!\nYou have won {0}",
+			"demoWin":"YOU COULD HAVE WON {0}",
+			"lose": "BETTER LUCK\nNEXT TIME"
+		}
+	},
+	"help":
+	{
+		"title":"HOW TO PLAY",
+		"text":"Watch the launch meter to select your launch speed and timing and then choose LAUNCH to propel each of the 7 balls into the play zone. Land 3 balls in the play zone’s center via the same segment for the win!"
+	},
+	"error":
+	{
+		"errorCode":"ERROR CODE: {0}\n\n{1}\n\n{2}"
+	}
+}

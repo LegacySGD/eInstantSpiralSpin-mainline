@@ -1,0 +1,60 @@
+{
+  	"version": "4.4.2016-AM",
+	"ui":
+	{
+		"balance":"BALANCE",
+		"wager":"TICKET COST",
+		"demo":"DEMO ",
+		"wins":"WIN",
+		"demoWins":"DEMO WIN",
+		"buy":"BUY",
+		"try":"TRY",
+		"drawOne":"DRAW ONE",
+		"drawAll":"DRAW ALL",
+		"exit":"EXIT",
+		"playForMoney":"PLAY FOR\nMONEY",
+		"buttons":
+		{
+			"fire": "LAUNCH",
+			"autoPlay": "AUTO PLAY",
+		  	"stop": "STOP",
+			"ok":"OK"
+		}
+	},
+	"game":
+	{
+    "scoreboardHeader": "PRIZE WIN ZONE",
+		"statusBar":
+		{
+			"rolling": "ROLLING ROLLING ROLLING!",
+			"segmentHit": "SEGMENT {0} HIT!!",
+			"winner": "{0} WINNER!!!",
+			"stat1": "LAUNCH THE BALLS",
+			"stat2": "GET 3 IN MATCHING SEGMENT",
+			"stat3": "TO WIN!",
+			"goodLuck":"GOOD LUCK",
+			"ready":"READY",
+			"drawComplete":"DRAW COMPLETE",
+			"ticketCost":"SELECT YOUR TICKET COST"
+		},
+	  	"ballCountSingular": "1 BALL LEFT",
+		"ballCountPlural": "{0} BALLS LEFT",
+		"ballCountSingularPort": "1 BALL\nLEFT",
+		"ballCountPluralPort": "{0} BALLS\nLEFT",
+	  	"result":
+		{
+			"win": "WINNER!\nYOU WIN {0}",
+			"demoWin":"YOU COULD HAVE WON {0}",
+			"lose": "SORRY!\nYOU DIDN'T WIN THIS TIME."
+		}
+	},
+	"help":
+	{
+		"title":"HOW TO PLAY",
+		"text":"Launch 7 balls into the Spiral Spin play zone.\n\nChoose at which speed by timing your LAUNCH button press.\n\nEach ball that drops into a segment pushes a prize closer to the win zone!\n\nWin a prize when three balls fall into the same segment!"
+	},
+	"error":
+	{
+		"errorCode":"ERROR CODE: {0}\n\n{1}\n\n{2}"
+	}
+}

@@ -1,0 +1,59 @@
+{
+  	"version": "4.4.2016-AM",
+	"ui":
+	{
+		"balance":"余额",
+		"wager":"单注金额",
+		"demo":"演示",
+		"wins":"奖金",
+		"demoWins":"演示奖励",
+		"buy":"购买",
+		"try":"试玩",
+		"drawOne":"选取一个",
+		"drawAll":"选取全部",
+		"exit":"退出",
+		"playForMoney":"现金\n游戏",
+		"buttons":
+		{
+			"fire": "发射",
+			"autoPlay": "自动游戏",
+		  	"stop": "停止",
+			"ok":"OK"
+		}
+	},
+	"game":
+	{
+		"statusBar":
+		{
+			"rolling": "滚动 滚动 滚动!",
+			"segmentHit": "目标 {0} 命中!!",
+			"winner": "{0} 胜利!!!",
+			"stat1": "发射这个弹珠",
+			"stat2": "命中3次相同颜色的区间",
+			"stat3": "获得胜利!",
+			"goodLuck":"好运",
+			"ready":"准备",
+			"drawComplete":"选取完成",
+			"ticketCost":"请选择单注金额"
+		},
+	  	"ballCountSingular": "1 剩余次数",
+		"ballCountPlural": "{0} 剩余次数",
+		"ballCountSingularPort": "1 剩余\n次数",
+		"ballCountPluralPort": "{0} 剩余\n次数",
+	  	"result":
+		{
+			"win": "胜利!\n你赢了{0}",
+			"demoWin":"你能赢的{0}",
+			"lose": "抱歉!\n你输了."
+		}
+	},
+	"help":
+	{
+		"title":"游戏规则",
+		"text":"将7个弹珠发射到彩色的旋转游戏区域.\n\n你可以选择不同的力度进行弹射.\n\n每一个落入游戏盘的弹珠都能让你更加的接近胜利!\n\n当有3个弹珠落入了同一个区间则会赢得奖金!"
+	},
+	"error":
+	{
+		"errorCode":"错误代码: {0}\n\n{1}\n\n{2}"
+	}
+}
